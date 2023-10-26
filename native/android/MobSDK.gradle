@@ -1,0 +1,45 @@
+apply plugin: 'com.mob.sdk'
+
+MobSDK {
+    appKey "2bd93f0b90d28"
+    appSecret "1d525427403590a3fdd31a24dbf40636"
+
+    ShareSDK {
+
+        gui false
+
+        //平台配置信息
+        devInfo {
+
+            //微信
+            Wechat {
+                id 4
+                sortId 4
+                appId "wx4facc8db27f4572f"
+                appSecret "6202bea45cac57d958c9ad44104e80bf"
+                bypassApproval false
+                enable true
+            }
+
+            //微信朋友圈
+            WechatMoments {
+                id 5
+                sortId 5
+                appId "wx4facc8db27f4572f"
+                appSecret "6202bea45cac57d958c9ad44104e80bf"
+                bypassApproval false
+                enable true
+            }
+
+            //钉钉
+            Dingding {
+                id 52
+                sortId 52
+                appId "dingoauz5vmbnmc8awrvpi"
+                bypassApproval false
+                enable true
+            }
+        }
+    }
+
+}

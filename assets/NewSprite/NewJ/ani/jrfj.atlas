@@ -1,0 +1,55 @@
+
+jrfj.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Q
+  rotate: true
+  xy: 246, 5
+  size: 99, 111
+  orig: 99, 111
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 2, 57
+  size: 242, 189
+  orig: 242, 189
+  offset: 0, 0
+  index: -1
+g
+  rotate: false
+  xy: 379, 121
+  size: 129, 125
+  orig: 129, 125
+  offset: 0, 0
+  index: -1
+jinbi
+  rotate: false
+  xy: 162, 2
+  size: 56, 53
+  orig: 56, 53
+  offset: 0, 0
+  index: -1
+jrfj
+  rotate: false
+  xy: 2, 10
+  size: 158, 45
+  orig: 158, 45
+  offset: 0, 0
+  index: -1
+k
+  rotate: false
+  xy: 359, 11
+  size: 90, 93
+  orig: 90, 93
+  offset: 0, 0
+  index: -1
+shandian
+  rotate: false
+  xy: 246, 106
+  size: 131, 140
+  orig: 131, 140
+  offset: 0, 0
+  index: -1

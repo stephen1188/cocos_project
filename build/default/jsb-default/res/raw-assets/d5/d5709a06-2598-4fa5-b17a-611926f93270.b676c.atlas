@@ -1,0 +1,20 @@
+
+douzi.png
+size: 106,220
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+douzi
+  rotate: false
+  xy: 2, 111
+  size: 102, 107
+  orig: 102, 107
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 2, 2
+  size: 102, 107
+  orig: 102, 107
+  offset: 0, 0
+  index: -1

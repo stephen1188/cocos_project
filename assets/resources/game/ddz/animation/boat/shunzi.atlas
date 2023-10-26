@@ -1,0 +1,166 @@
+
+shunzi.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boat_lian_01
+  rotate: false
+  xy: 2, 677
+  size: 376, 345
+  orig: 376, 345
+  offset: 0, 0
+  index: -1
+boat_shun_01
+  rotate: false
+  xy: 2, 330
+  size: 376, 345
+  orig: 376, 345
+  offset: 0, 0
+  index: -1
+flag0
+  rotate: true
+  xy: 442, 113
+  size: 48, 18
+  orig: 48, 18
+  offset: 0, 0
+  index: -1
+flag1
+  rotate: false
+  xy: 958, 1005
+  size: 43, 17
+  orig: 43, 17
+  offset: 0, 0
+  index: -1
+flag2
+  rotate: false
+  xy: 380, 344
+  size: 45, 17
+  orig: 45, 17
+  offset: 0, 0
+  index: -1
+flag3
+  rotate: true
+  xy: 462, 113
+  size: 48, 17
+  orig: 48, 17
+  offset: 0, 0
+  index: -1
+wave0
+  rotate: false
+  xy: 442, 163
+  size: 371, 98
+  orig: 371, 98
+  offset: 0, 0
+  index: -1
+wave1
+  rotate: true
+  xy: 858, 650
+  size: 372, 98
+  orig: 372, 98
+  offset: 0, 0
+  index: -1
+wave2
+  rotate: false
+  xy: 427, 263
+  size: 373, 98
+  orig: 373, 98
+  offset: 0, 0
+  index: -1
+wave3
+  rotate: true
+  xy: 842, 278
+  size: 370, 98
+  orig: 370, 98
+  offset: 0, 0
+  index: -1
+wavelight0
+  rotate: false
+  xy: 2, 219
+  size: 423, 109
+  orig: 423, 109
+  offset: 0, 0
+  index: -1
+wavelight1
+  rotate: false
+  xy: 2, 113
+  size: 438, 104
+  orig: 438, 104
+  offset: 0, 0
+  index: -1
+wavelight2
+  rotate: false
+  xy: 380, 363
+  size: 437, 106
+  orig: 437, 106
+  offset: 0, 0
+  index: -1
+wavelight3
+  rotate: false
+  xy: 380, 580
+  size: 460, 107
+  orig: 460, 107
+  offset: 0, 0
+  index: -1
+wavelight4
+  rotate: false
+  xy: 380, 471
+  size: 455, 107
+  orig: 455, 107
+  offset: 0, 0
+  index: -1
+wavelight5
+  rotate: false
+  xy: 380, 689
+  size: 461, 110
+  orig: 461, 110
+  offset: 0, 0
+  index: -1
+wavelight6
+  rotate: false
+  xy: 380, 801
+  size: 474, 109
+  orig: 474, 109
+  offset: 0, 0
+  index: -1
+wavelight7
+  rotate: false
+  xy: 380, 912
+  size: 476, 110
+  orig: 476, 110
+  offset: 0, 0
+  index: -1
+wavelight8
+  rotate: false
+  xy: 407, 2
+  size: 400, 109
+  orig: 400, 109
+  offset: 0, 0
+  index: -1
+wavelight9
+  rotate: false
+  xy: 2, 2
+  size: 403, 109
+  orig: 403, 109
+  offset: 0, 0
+  index: -1
+
+shunzi2.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wave4
+  rotate: false
+  xy: 374, 2
+  size: 368, 98
+  orig: 368, 98
+  offset: 0, 0
+  index: -1
+wave5
+  rotate: false
+  xy: 2, 2
+  size: 370, 98
+  orig: 370, 98
+  offset: 0, 0
+  index: -1

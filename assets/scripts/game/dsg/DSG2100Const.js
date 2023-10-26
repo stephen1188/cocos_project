@@ -1,0 +1,42 @@
+var NNConst = cc.Class({
+    extends: cc.Component,
+    statics: {
+        player5:[
+            {x:-500,y:-250,distance:130,toright:200,scale:1.1,pos:{ready:{x:95,y:0},bet:{x:0,y:-20},chat:{x:200,y:47},card:{x:-200,y:-248,scale:1.2},voice:{x:-112,y:22,scalex:1,scaley:1}}},
+            {x:-535,y:-70,distance:50,toright:80,scale:1.0,pos:{ready:{x:95,y:0},bet:{x:0,y:-20},chat:{x:200,y:47},card:{x:-433,y:-72,scale:0.8},voice:{x:112,y:22,scalex:-1,scaley:1}}},
+            {x:-535,y:201,distance:50,toright:80,scale:1.0,pos:{ready:{x:95,y:0},bet:{x:0,y:-20},chat:{x:200,y:47},card:{x:-433,y:201,scale:0.8},voice:{x:112,y:22,scalex:-1,scaley:1}}},
+            {x:513,y:201,distance:50,toright:80,scale:1.0,pos:{ready:{x:-150,y:0},bet:{x:0,y:-20},chat:{x:-200,y:47},card:{x:302,y:201,scale:0.8},voice:{x:-112,y:22,scalex:1,scaley:1}}},
+            {x:558,y:-70,distance:50,toright:80,scale:1.0,pos:{ready:{x:-150,y:0},bet:{x:0,y:-20},chat:{x:-200,y:47},card:{x:350,y:-72,scale:0.8},voice:{x:-112,y:22,scalex:1,scaley:1}}}, 
+        ],
+        player8:[
+            {x:-500,y:-250,distance:110,toright:220,scale:1.1,pos:{ready:{x:95,y:0},bet:{x:0,y:-20},chat:{x:200,y:47},card:{x:-380,y:-275,scale:1.0},voice:{x:-112,y:22,scalex:1,scaley:1}}},//1
+            {x:-580,y:-60,distance:30,toright:60,scale:0.8,pos:{ready:{x:95,y:0},bet:{x:0,y:-20},chat:{x:200,y:47},card:{x:-500,y:-70,scale:0.6},voice:{x:112,y:22,scalex:-1,scaley:1}}},//2
+            {x:-580,y:100,distance:30,toright:60,scale:0.8,pos:{ready:{x:95,y:0},bet:{x:0,y:-20},chat:{x:200,y:47},card:{x:-500,y:90,scale:0.6},voice:{x:112,y:22,scalex:-1,scaley:1}}},//3
+            {x:-580,y:260,distance:30,toright:60,scale:0.8,pos:{ready:{x:95,y:0},bet:{x:0,y:-20},chat:{x:200,y:47},card:{x:-500,y:248,scale:0.6},voice:{x:112,y:22,scalex:-1,scaley:1}}},//4
+            {x:-286,y:260,distance:30,toright:60,scale:0.8,pos:{ready:{x:95,y:0},bet:{x:0,y:-20},chat:{x:200,y:47},card:{x:-208,y:248,scale:0.6},voice:{x:-112,y:22,scalex:1,scaley:1}}},//5
+            {x:10,y:260,distance:30,toright:60,scale:0.8,pos:{ready:{x:95,y:0},bet:{x:0,y:-20},chat:{x:200,y:47},card:{x:85,y:248,scale:0.6},voice:{x:-112,y:22,scalex:1,scaley:1}}},//6
+            {x:310,y:260,distance:30,toright:60,scale:0.8,pos:{ready:{x:95,y:0},bet:{x:0,y:-20},chat:{x:200,y:47},card:{x:385,y:248,scale:0.6},voice:{x:-112,y:22,scalex:1,scaley:1}}},//7
+            {x:580,y:100,distance:30,toright:60,scale:0.8,pos:{ready:{x:-150,y:0},bet:{x:0,y:-20},chat:{x:-200,y:47},card:{x:385,y:90,scale:0.6},voice:{x:-112,y:22,scalex:1,scaley:1}}},//8
+            {x:580,y:-104,distance:30,toright:60,scale:0.8,pos:{ready:{x:-150,y:0},bet:{x:0,y:-20},chat:{x:-200,y:47},card:{x:385,y:-115,scale:0.6},voice:{x:-112,y:22,scalex:1,scaley:1}}},//9
+            {x:310,y:-250,distance:30,toright:60,scale:0.8,pos:{ready:{x:-150,y:0},bet:{x:0,y:-20},chat:{x:200,y:47},card:{x:385,y:-262,scale:0.6},voice:{x:-112,y:22,scalex:1,scaley:1}}},//10
+        ],
+        chat_path:"dsg",
+        quick_chat:[
+            {id:0,info:"加个好友，以后一起玩"},
+            {id:1,info:"和你合作真是太愉快啦~"},
+            {id:2,info:"快点吧，我等的花儿都谢了"},
+            {id:3,info:"你的牌打的太好啦"},
+            {id:4,info:"拜托，有你这样玩牌的吗？"},
+            {id:5,info:"不好意思出错了，真对不住啊"},
+            {id:6,info:"来来来，继续大战三百回合"},
+            {id:7,info:"苍天啊，赐给我一手好牌吧"}, 
+        ],
+        cuopai:[
+            {card:{x:0,y:0,scale:2}}
+        ],
+        selfPoke5:
+            {x:-75,y:-250,distance:50,scale:1.0},
+        selfPoke8:
+            {x:-240,y:-276,distance:50,scale:1.0},
+    },
+});

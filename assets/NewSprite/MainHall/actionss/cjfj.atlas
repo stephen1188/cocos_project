@@ -1,0 +1,41 @@
+
+cjfj.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hall_tw_di
+  rotate: false
+  xy: 2, 16
+  size: 410, 238
+  orig: 410, 238
+  offset: 0, 0
+  index: -1
+hall_tw_fa
+  rotate: false
+  xy: 414, 116
+  size: 147, 138
+  orig: 147, 138
+  offset: 0, 0
+  index: -1
+hall_tw_guang
+  rotate: false
+  xy: 2, 2
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+hall_tw_hou
+  rotate: false
+  xy: 414, 24
+  size: 97, 90
+  orig: 97, 90
+  offset: 0, 0
+  index: -1
+hall_tw_wenzi
+  rotate: false
+  xy: 563, 205
+  size: 163, 49
+  orig: 163, 49
+  offset: 0, 0
+  index: -1

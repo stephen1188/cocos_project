@@ -1,0 +1,83 @@
+
+jrlq.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: true
+  xy: 862, 44
+  size: 153, 56
+  orig: 153, 56
+  offset: 0, 0
+  index: -1
+bg
+  rotate: true
+  xy: 2, 14
+  size: 240, 376
+  orig: 240, 376
+  offset: 0, 0
+  index: -1
+ji
+  rotate: false
+  xy: 380, 53
+  size: 198, 201
+  orig: 198, 201
+  offset: 0, 0
+  index: -1
+jinbi
+  rotate: false
+  xy: 660, 67
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+tui
+  rotate: false
+  xy: 435, 2
+  size: 50, 40
+  orig: 50, 40
+  offset: 0, 0
+  index: -1
+tui2
+  rotate: false
+  xy: 380, 2
+  size: 53, 49
+  orig: 53, 49
+  offset: 0, 0
+  index: -1
+yan
+  rotate: false
+  xy: 580, 111
+  size: 144, 143
+  orig: 144, 143
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 580, 46
+  size: 78, 63
+  orig: 78, 63
+  offset: 0, 0
+  index: -1
+zd
+  rotate: true
+  xy: 726, 95
+  size: 102, 134
+  orig: 102, 134
+  offset: 0, 0
+  index: -1
+zi
+  rotate: false
+  xy: 726, 199
+  size: 201, 55
+  orig: 201, 55
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 929, 201
+  size: 45, 53
+  orig: 45, 53
+  offset: 0, 0
+  index: -1

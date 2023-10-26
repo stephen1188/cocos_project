@@ -1,0 +1,1 @@
+node version_generator.js -u https://xxx.xxx.xxx.xxx./ -v 1.0.0 -s build/jsb-link/ -d assets/

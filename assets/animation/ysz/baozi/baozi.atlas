@@ -1,0 +1,167 @@
+
+baozi.png
+size: 1009,693
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
++
+  rotate: true
+  xy: 920, 399
+  size: 292, 73
+  orig: 292, 73
+  offset: 0, 0
+  index: -1
+1213
+  rotate: false
+  xy: 125, 43
+  size: 231, 34
+  orig: 231, 34
+  offset: 0, 0
+  index: -1
+BeilvNum
+  rotate: true
+  xy: 255, 167
+  size: 42, 45
+  orig: 42, 45
+  offset: 0, 0
+  index: -1
+baoxiang
+  rotate: true
+  xy: 482, 16
+  size: 243, 211
+  orig: 243, 211
+  offset: 0, 0
+  index: -1
+baoxianglg
+  rotate: true
+  xy: 695, 16
+  size: 243, 211
+  orig: 243, 211
+  offset: 0, 0
+  index: -1
+huangguang
+  rotate: true
+  xy: 920, 213
+  size: 184, 84
+  orig: 184, 84
+  offset: 0, 0
+  index: -1
+hxx
+  rotate: false
+  xy: 125, 79
+  size: 128, 130
+  orig: 128, 130
+  offset: 0, 0
+  index: -1
+jinbi1
+  rotate: true
+  xy: 908, 34
+  size: 177, 96
+  orig: 177, 96
+  offset: 0, 0
+  index: -1
+jinbi2
+  rotate: true
+  xy: 2, 22
+  size: 187, 121
+  orig: 187, 121
+  offset: 0, 0
+  index: -1
+jinbi3
+  rotate: false
+  xy: 358, 85
+  size: 105, 124
+  orig: 105, 124
+  offset: 0, 0
+  index: -1
+piaodai7
+  rotate: true
+  xy: 983, 6
+  size: 26, 15
+  orig: 26, 15
+  offset: 0, 0
+  index: -1
+quan1
+  rotate: true
+  xy: 482, 261
+  size: 430, 436
+  orig: 430, 436
+  offset: 0, 0
+  index: -1
+quan2
+  rotate: false
+  xy: 2, 211
+  size: 478, 480
+  orig: 478, 480
+  offset: 0, 0
+  index: -1
+sidai10
+  rotate: false
+  xy: 27, 4
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+sidai3
+  rotate: true
+  xy: 962, 11
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+sidai8
+  rotate: true
+  xy: 358, 19
+  size: 64, 44
+  orig: 64, 44
+  offset: 0, 0
+  index: -1
+sidai9
+  rotate: true
+  xy: 2, 4
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: -1
+sidaihuang1
+  rotate: false
+  xy: 125, 6
+  size: 47, 35
+  orig: 47, 35
+  offset: 0, 0
+  index: -1
+sidailv4
+  rotate: true
+  xy: 995, 668
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+sidaizi1
+  rotate: false
+  xy: 404, 42
+  size: 47, 41
+  orig: 47, 41
+  offset: 0, 0
+  index: -1
+xingxing1
+  rotate: true
+  xy: 908, 2
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+xingxingb1
+  rotate: true
+  xy: 404, 4
+  size: 36, 47
+  orig: 36, 47
+  offset: 0, 0
+  index: -1
+xingxingc2
+  rotate: true
+  xy: 937, 6
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1

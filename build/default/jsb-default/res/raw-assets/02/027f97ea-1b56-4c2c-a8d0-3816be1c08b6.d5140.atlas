@@ -1,0 +1,213 @@
+
+doudizhu_huojian.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cloud
+  rotate: false
+  xy: 465, 19
+  size: 201, 139
+  orig: 201, 139
+  offset: 0, 0
+  index: -1
+cloud_add
+  rotate: false
+  xy: 668, 2
+  size: 306, 133
+  orig: 306, 133
+  offset: 0, 0
+  index: -1
+dust_0
+  rotate: false
+  xy: 2, 160
+  size: 757, 261
+  orig: 757, 261
+  offset: 0, 0
+  index: -1
+dust_3
+  rotate: false
+  xy: 2, 423
+  size: 725, 292
+  orig: 725, 292
+  offset: 0, 0
+  index: -1
+dust_4
+  rotate: false
+  xy: 2, 717
+  size: 745, 304
+  orig: 745, 304
+  offset: 0, 0
+  index: -1
+partical_1
+  rotate: true
+  xy: 761, 137
+  size: 429, 244
+  orig: 429, 244
+  offset: 0, 0
+  index: -1
+partical_7
+  rotate: true
+  xy: 749, 568
+  size: 453, 268
+  orig: 453, 268
+  offset: 0, 0
+  index: -1
+partical_8
+  rotate: false
+  xy: 2, 47
+  size: 461, 111
+  orig: 461, 111
+  offset: 0, 0
+  index: -1
+
+doudizhu_huojian2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dust_13
+  rotate: false
+  xy: 2, 790
+  size: 741, 224
+  orig: 741, 224
+  offset: 0, 0
+  index: -1
+dust_7
+  rotate: true
+  xy: 745, 442
+  size: 572, 276
+  orig: 572, 276
+  offset: 0, 0
+  index: -1
+fire
+  rotate: true
+  xy: 2, 606
+  size: 182, 225
+  orig: 182, 225
+  offset: 0, 0
+  index: -1
+huojian
+  rotate: true
+  xy: 478, 15
+  size: 182, 325
+  orig: 182, 325
+  offset: 0, 0
+  index: -1
+partical_0
+  rotate: true
+  xy: 243, 2
+  size: 407, 233
+  orig: 407, 233
+  offset: 0, 0
+  index: -1
+partical_3
+  rotate: false
+  xy: 243, 411
+  size: 476, 174
+  orig: 476, 174
+  offset: 0, 0
+  index: -1
+partical_4
+  rotate: false
+  xy: 243, 587
+  size: 497, 201
+  orig: 497, 201
+  offset: 0, 0
+  index: -1
+partical_5
+  rotate: false
+  xy: 478, 199
+  size: 513, 210
+  orig: 513, 210
+  offset: 0, 0
+  index: -1
+partical_6
+  rotate: true
+  xy: 2, 5
+  size: 435, 239
+  orig: 435, 239
+  offset: 0, 0
+  index: -1
+
+doudizhu_huojian3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dust_10
+  rotate: false
+  xy: 2, 330
+  size: 687, 234
+  orig: 687, 234
+  offset: 0, 0
+  index: -1
+dust_11
+  rotate: false
+  xy: 2, 792
+  size: 726, 224
+  orig: 726, 224
+  offset: 0, 0
+  index: -1
+dust_12
+  rotate: false
+  xy: 2, 566
+  size: 706, 224
+  orig: 706, 224
+  offset: 0, 0
+  index: -1
+dust_6
+  rotate: true
+  xy: 691, 2
+  size: 560, 278
+  orig: 560, 278
+  offset: 0, 0
+  index: -1
+dust_8
+  rotate: false
+  xy: 2, 66
+  size: 610, 262
+  orig: 610, 262
+  offset: 0, 0
+  index: -1
+partical_2
+  rotate: true
+  xy: 730, 564
+  size: 452, 242
+  orig: 452, 242
+  offset: 0, 0
+  index: -1
+
+doudizhu_huojian4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dust_1
+  rotate: false
+  xy: 2, 266
+  size: 672, 270
+  orig: 672, 270
+  offset: 0, 0
+  index: -1
+dust_2
+  rotate: false
+  xy: 2, 538
+  size: 697, 279
+  orig: 697, 279
+  offset: 0, 0
+  index: -1
+dust_5
+  rotate: true
+  xy: 701, 202
+  size: 615, 275
+  orig: 615, 275
+  offset: 0, 0
+  index: -1
+dust_9
+  rotate: false
+  xy: 2, 2
+  size: 649, 262
+  orig: 649, 262
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,97 @@
+
+wdlq.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bowen/0001
+  rotate: false
+  xy: 618, 155
+  size: 130, 80
+  orig: 130, 80
+  offset: 0, 0
+  index: -1
+bowen/0002
+  rotate: false
+  xy: 618, 73
+  size: 130, 80
+  orig: 130, 80
+  offset: 0, 0
+  index: -1
+bowen/0003
+  rotate: false
+  xy: 750, 155
+  size: 130, 80
+  orig: 130, 80
+  offset: 0, 0
+  index: -1
+bowen/0004
+  rotate: false
+  xy: 750, 73
+  size: 130, 80
+  orig: 130, 80
+  offset: 0, 0
+  index: -1
+bowen/0005
+  rotate: false
+  xy: 882, 155
+  size: 130, 80
+  orig: 130, 80
+  offset: 0, 0
+  index: -1
+bowen/0006
+  rotate: false
+  xy: 882, 73
+  size: 130, 80
+  orig: 130, 80
+  offset: 0, 0
+  index: -1
+bowen/0007
+  rotate: false
+  xy: 1014, 155
+  size: 130, 80
+  orig: 130, 80
+  offset: 0, 0
+  index: -1
+bowen/0008
+  rotate: false
+  xy: 1014, 73
+  size: 130, 80
+  orig: 130, 80
+  offset: 0, 0
+  index: -1
+bowen/0009
+  rotate: false
+  xy: 1146, 155
+  size: 130, 80
+  orig: 130, 80
+  offset: 0, 0
+  index: -1
+hall_cj_beizi
+  rotate: false
+  xy: 414, 73
+  size: 202, 162
+  orig: 202, 162
+  offset: 0, 0
+  index: -1
+hall_cj_di
+  rotate: true
+  xy: 2, 2
+  size: 233, 410
+  orig: 233, 410
+  offset: 0, 0
+  index: -1
+hall_cj_huawen
+  rotate: false
+  xy: 1146, 96
+  size: 98, 57
+  orig: 98, 57
+  offset: 0, 0
+  index: -1
+zi
+  rotate: true
+  xy: 414, 15
+  size: 56, 165
+  orig: 56, 165
+  offset: 0, 0
+  index: -1

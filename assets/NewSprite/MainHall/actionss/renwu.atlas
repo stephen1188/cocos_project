@@ -1,0 +1,181 @@
+
+renwu.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Swimming_ring
+  rotate: false
+  xy: 1017, 692
+  size: 392, 330
+  orig: 392, 330
+  offset: 0, 0
+  index: -1
+Swimming_ring_on
+  rotate: false
+  xy: 529, 325
+  size: 56, 52
+  orig: 56, 52
+  offset: 0, 0
+  index: -1
+arm
+  rotate: true
+  xy: 238, 84
+  size: 237, 247
+  orig: 237, 247
+  offset: 0, 0
+  index: -1
+arm1rope
+  rotate: false
+  xy: 1176, 553
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+armrope2
+  rotate: true
+  xy: 1716, 726
+  size: 23, 67
+  orig: 23, 67
+  offset: 0, 0
+  index: -1
+armrope3
+  rotate: true
+  xy: 1411, 693
+  size: 27, 65
+  orig: 27, 65
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 88
+  size: 234, 934
+  orig: 234, 934
+  offset: 0, 0
+  index: -1
+clother1
+  rotate: false
+  xy: 1411, 722
+  size: 303, 300
+  orig: 303, 300
+  offset: 0, 0
+  index: -1
+clother2
+  rotate: false
+  xy: 529, 581
+  size: 486, 441
+  orig: 486, 441
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 1984, 876
+  size: 146, 59
+  orig: 146, 59
+  offset: 0, 0
+  index: -1
+flower
+  rotate: false
+  xy: 1008, 466
+  size: 64, 78
+  orig: 64, 78
+  offset: 0, 0
+  index: -1
+glass
+  rotate: false
+  xy: 234, 12
+  size: 121, 70
+  orig: 121, 70
+  offset: 0, 0
+  index: -1
+glass_2
+  rotate: false
+  xy: 357, 12
+  size: 121, 70
+  orig: 121, 70
+  offset: 0, 0
+  index: -1
+hair1
+  rotate: false
+  xy: 103, 5
+  size: 129, 81
+  orig: 129, 81
+  offset: 0, 0
+  index: -1
+hair2
+  rotate: true
+  xy: 831, 339
+  size: 240, 175
+  orig: 240, 175
+  offset: 0, 0
+  index: -1
+hair3
+  rotate: false
+  xy: 1267, 595
+  size: 102, 95
+  orig: 102, 95
+  offset: 0, 0
+  index: -1
+hair4
+  rotate: false
+  xy: 529, 379
+  size: 300, 200
+  orig: 300, 200
+  offset: 0, 0
+  index: -1
+hair5
+  rotate: false
+  xy: 1176, 580
+  size: 89, 110
+  orig: 89, 110
+  offset: 0, 0
+  index: -1
+hair6
+  rotate: false
+  xy: 1716, 751
+  size: 266, 271
+  orig: 266, 271
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 1017, 546
+  size: 157, 144
+  orig: 157, 144
+  offset: 0, 0
+  index: -1
+leg
+  rotate: false
+  xy: 238, 323
+  size: 289, 699
+  orig: 289, 699
+  offset: 0, 0
+  index: -1
+mouth_inside
+  rotate: false
+  xy: 487, 296
+  size: 39, 25
+  orig: 39, 25
+  offset: 0, 0
+  index: -1
+swim_suit_1
+  rotate: false
+  xy: 2, 2
+  size: 99, 84
+  orig: 99, 84
+  offset: 0, 0
+  index: -1
+swim_suit_2
+  rotate: true
+  xy: 1984, 822
+  size: 24, 62
+  orig: 24, 62
+  offset: 0, 0
+  index: -1
+swim_suit_3
+  rotate: true
+  xy: 1984, 848
+  size: 26, 62
+  orig: 26, 62
+  offset: 0, 0
+  index: -1

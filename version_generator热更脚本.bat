@@ -1,0 +1,1 @@
+node version_generator.js -u http://wanshun.vip/hotts/ -v 1.0.4 -s build/default/jsb-default/ -d assets/

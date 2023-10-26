@@ -1,0 +1,68 @@
+
+doudizhu_zha_add.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zha00
+  rotate: false
+  xy: 2, 176
+  size: 478, 283
+  orig: 478, 283
+  offset: 0, 0
+  index: -1
+zha01
+  rotate: false
+  xy: 2, 461
+  size: 478, 274
+  orig: 478, 274
+  offset: 0, 0
+  index: -1
+zha02
+  rotate: false
+  xy: 482, 297
+  size: 478, 280
+  orig: 478, 280
+  offset: 0, 0
+  index: -1
+zha03
+  rotate: false
+  xy: 2, 744
+  size: 359, 262
+  orig: 359, 262
+  offset: 0, 0
+  index: -1
+zha05
+  rotate: false
+  xy: 482, 2
+  size: 465, 293
+  orig: 465, 293
+  offset: 0, 0
+  index: -1
+zha06
+  rotate: true
+  xy: 731, 579
+  size: 427, 288
+  orig: 427, 288
+  offset: 0, 0
+  index: -1
+zha07
+  rotate: false
+  xy: 363, 737
+  size: 366, 269
+  orig: 366, 269
+  offset: 0, 0
+  index: -1
+
+doudizhu_zha_add2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zha04
+  rotate: false
+  xy: 2, 2
+  size: 478, 294
+  orig: 478, 294
+  offset: 0, 0
+  index: -1

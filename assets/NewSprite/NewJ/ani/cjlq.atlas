@@ -1,0 +1,48 @@
+
+cjlq.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 2, 49
+  size: 242, 189
+  orig: 242, 189
+  offset: 0, 0
+  index: -1
+huojian
+  rotate: false
+  xy: 246, 94
+  size: 153, 144
+  orig: 153, 144
+  offset: 0, 0
+  index: -1
+jinbi
+  rotate: false
+  xy: 667, 187
+  size: 47, 51
+  orig: 47, 51
+  offset: 0, 0
+  index: -1
+pai1
+  rotate: true
+  xy: 401, 104
+  size: 134, 152
+  orig: 134, 152
+  offset: 0, 0
+  index: -1
+pai2
+  rotate: false
+  xy: 555, 138
+  size: 110, 100
+  orig: 110, 100
+  offset: 0, 0
+  index: -1
+zi
+  rotate: false
+  xy: 2, 2
+  size: 158, 45
+  orig: 158, 45
+  offset: 0, 0
+  index: -1

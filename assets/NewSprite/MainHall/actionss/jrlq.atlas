@@ -1,0 +1,111 @@
+
+jrlq.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hall_jlb_2
+  rotate: false
+  xy: 559, 165
+  size: 197, 78
+  orig: 197, 78
+  offset: 0, 0
+  index: -1
+hall_jlb_aixin
+  rotate: false
+  xy: 477, 2
+  size: 58, 45
+  orig: 58, 45
+  offset: 0, 0
+  index: -1
+hall_jlb_chibang
+  rotate: true
+  xy: 758, 151
+  size: 92, 107
+  orig: 92, 107
+  offset: 0, 0
+  index: -1
+hall_jlb_di
+  rotate: false
+  xy: 2, 10
+  size: 410, 233
+  orig: 410, 233
+  offset: 0, 0
+  index: -1
+hall_jlb_jinbi
+  rotate: false
+  xy: 414, 4
+  size: 61, 43
+  orig: 61, 43
+  offset: 0, 0
+  index: -1
+hall_jlb_jinbi2
+  rotate: false
+  xy: 690, 20
+  size: 34, 51
+  orig: 34, 51
+  offset: 0, 0
+  index: -1
+hall_jlb_k
+  rotate: false
+  xy: 639, 21
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1
+hall_jlb_shenti
+  rotate: false
+  xy: 414, 49
+  size: 143, 194
+  orig: 143, 194
+  offset: 0, 0
+  index: -1
+hall_jlb_youjiao
+  rotate: true
+  xy: 955, 141
+  size: 41, 47
+  orig: 41, 47
+  offset: 0, 0
+  index: -1
+hall_jlb_youpifeng
+  rotate: false
+  xy: 559, 73
+  size: 117, 40
+  orig: 117, 40
+  offset: 0, 0
+  index: -1
+hall_jlb_yun
+  rotate: false
+  xy: 559, 10
+  size: 78, 61
+  orig: 78, 61
+  offset: 0, 0
+  index: -1
+hall_jlb_zuochi
+  rotate: false
+  xy: 867, 166
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: -1
+hall_jlb_zuojiao
+  rotate: true
+  xy: 678, 73
+  size: 40, 45
+  orig: 40, 45
+  offset: 0, 0
+  index: -1
+hall_jlb_zuopifeng
+  rotate: false
+  xy: 955, 184
+  size: 67, 59
+  orig: 67, 59
+  offset: 0, 0
+  index: -1
+zi
+  rotate: false
+  xy: 559, 115
+  size: 164, 48
+  orig: 164, 48
+  offset: 0, 0
+  index: -1

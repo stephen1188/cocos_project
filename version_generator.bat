@@ -1,0 +1,1 @@
+node version_generator.js -u http://hot.wanshun.vip/hotts/remote-assets/ -v 1.2.2 -s build/default/jsb-default/ -d assets/

@@ -1,0 +1,83 @@
+
+doudizhu_zha_normal.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boom
+  rotate: true
+  xy: 270, 2
+  size: 94, 184
+  orig: 94, 184
+  offset: 0, 0
+  index: -1
+dark00
+  rotate: true
+  xy: 886, 299
+  size: 198, 135
+  orig: 198, 135
+  offset: 0, 0
+  index: -1
+dark01
+  rotate: false
+  xy: 591, 247
+  size: 219, 138
+  orig: 219, 138
+  offset: 0, 0
+  index: -1
+dark02
+  rotate: false
+  xy: 279, 98
+  size: 238, 141
+  orig: 238, 141
+  offset: 0, 0
+  index: -1
+dark03
+  rotate: false
+  xy: 288, 241
+  size: 257, 143
+  orig: 257, 143
+  offset: 0, 0
+  index: -1
+dark04
+  rotate: false
+  xy: 2, 71
+  size: 266, 144
+  orig: 266, 144
+  offset: 0, 0
+  index: -1
+dark05
+  rotate: false
+  xy: 2, 217
+  size: 275, 140
+  orig: 275, 140
+  offset: 0, 0
+  index: -1
+dark06
+  rotate: false
+  xy: 2, 359
+  size: 284, 138
+  orig: 284, 138
+  offset: 0, 0
+  index: -1
+dark07
+  rotate: false
+  xy: 591, 387
+  size: 293, 110
+  orig: 293, 110
+  offset: 0, 0
+  index: -1
+dark08
+  rotate: false
+  xy: 288, 386
+  size: 301, 111
+  orig: 301, 111
+  offset: 0, 0
+  index: -1
+mask
+  rotate: false
+  xy: 519, 229
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1

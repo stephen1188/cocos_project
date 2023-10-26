@@ -1,0 +1,18 @@
+<!-- 录音 -->
+<uses-permission android:name="android.permission.RECORD_AUDIO"/> 
+<!-- 两种provider的权限 -->
+<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+<!-- 仅网络定位的权限 -->
+<uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+
+
+
+
+
+
+<intent-filter>
+    <action android:name="android.intent.action.VIEW"/>
+    <category android:name="android.intent.category.DEFAULT" />
+    <category android:name="android.intent.category.BROWSABLE" />
+    <data android:scheme="fgfcpk" android:host="fcpk" android:pathPrefix="/main"/>
+</intent-filter>
