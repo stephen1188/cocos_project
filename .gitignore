@@ -5,6 +5,8 @@
 library/
 temp/
 local/
+build/
+build-templates/
 
 #/////////////////////////////////////////////////////////////////////////////
 # Logs and databases
@@ -64,10 +66,3 @@ quick_gen_project_*_autogen.sh.meta
 #//////////////////////////
 
 .vscode/
-build/default/jsb-binary/
-build/default/jsb-link/res/
-build/default/jsb-link/src/
-build/jsb-default/res/
-build/jsb-default/src/
-build/jsb-link/res/
-build/jsb-link/src/
