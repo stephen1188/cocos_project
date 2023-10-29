@@ -27,7 +27,7 @@
   },
   "renderMode": "0",
   "startScene": "7e4af3a3-4f77-4006-9ef3-0ad249dc2b2a",
-  "title": "wsw",
+  "title": "plgame",
   "webOrientation": "auto",
   "wechatgame": {
     "REMOTE_SERVER_ROOT": "",
@@ -42,7 +42,7 @@
     "packageName": "scunt.wanshung.thuan"
   },
   "ios": {
-    "packageName": "com.diiapple.ww"
+    "packageName": "com.di123.tes123"
   },
   "mac": {
     "packageName": "com.xcl.chessroom"
