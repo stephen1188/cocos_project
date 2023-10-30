@@ -14,6 +14,8 @@ cc.Class({
         clubid:0,           //亲友圈ID
         minmoney:false,     //提示胜点不足，如果未true 代表胜点不足。则拦截准备消息
         ip_repeat:null,             //本局是否继续提示ip地址相同
+        is_return: false,
+        game_index:null,
     },
 
     init:function(){

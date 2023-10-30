@@ -792,6 +792,11 @@ cc.Class({
             {
                 cc.vv.net2.quick("watch");
             }
+            case "btn_onMore":
+            {
+                cc.vv.net2.quick("leave");
+                cc.vv.roomMgr.is_return = true;
+            }
             break;
             case "btn_ready":
                 { 

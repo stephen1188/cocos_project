@@ -21,7 +21,8 @@ cc.Class({
         // cc.vv.hallServerArr = ['ws://47.57.137.112:19088', 'ws://47.57.137.112:19088'];
         // cc.vv.hallServerArr = ['ws://127.0.0.1:19088', 'ws://127.0.0.1:19088']
         // cc.vv.hallServerArr = ['ws://8.217.44.199:19088', 'ws://8.217.44.199:19088'];
-        cc.vv.hallServerArr = ['ws://h1.wanshun.vip:19088', 'ws://h1.wanshun.vip:19088'];
+        // cc.vv.hallServerArr = ['ws://h1.wanshun.vip:19088', 'ws://h1.wanshun.vip:19088'];
+        cc.vv.hallServerArr = cc.vv.utils.deepCopy(cc.HALL_SERVER);
         if (!cc.sys.isNative){
             // this.getReallyAdress()
             this.login();

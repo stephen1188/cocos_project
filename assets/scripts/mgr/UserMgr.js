@@ -26,6 +26,7 @@ cc.Class({
 
         clubRoomEnter:0,
         playFisrtWelcome:1,
+        rule_id:null,
     },
     
     //游客登录

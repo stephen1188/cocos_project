@@ -181,6 +181,7 @@ cc.Class({
         };
         cc.vv.popMgr.wait("正在创建房间",function(){
             cc.vv.net1.send(club_room_create);
+            cc.vv.userMgr.rule_id = this.node.myTag;
         });
         cc.vv.userMgr.clubRoomEnter = cc.vv.userMgr.club_id;
     },

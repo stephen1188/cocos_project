@@ -284,6 +284,36 @@ cc.Class({
         // if(cc.vv.club._clubMember){
         //     cc.vv.club._clubMember.active = false;
         // }
+
+        //下一局游戏
+        this.scheduleOnce(()=>{
+            if (cc.vv.roomMgr.is_return) {
+                this.clubScrollList.getComponent("ClubRoomList").clubListNode.forEach(element => {
+                    console.log('1111111111111111', cc.vv.userMgr.rule_id);
+                    console.log('2222222222222222', element.getComponent("ClubRoomItem")._ruleid);
+                    if(cc.vv.userMgr.rule_id ==  element.getComponent("ClubRoomItem")._ruleid) {
+                        let event = {};
+                        event.target = {};
+                        event.target.name = 'btn_room';
+                        element.getComponent('ClubRoomItem').onBtnClicked(event)
+                        cc.vv.roomMgr.is_return = false;
+                        return
+                    }
+                });
+                if(cc.vv.club._clubGameList == null){
+                    cc.vv.popMgr.pop('club/ClubGameList',function(obj){
+                        cc.vv.club._clubGameList = obj;
+                        obj.getComponent('ClubGameList').show();
+                    });
+                }
+                else{
+                    
+                    cc.vv.club._clubGameList.active = true;
+                    cc.vv.club._clubGameList.getComponent('ClubGameList').show();
+                }
+                cc.vv.roomMgr.is_return = false;
+            }
+        }, 2)
     },
 
     refresh:function(data){

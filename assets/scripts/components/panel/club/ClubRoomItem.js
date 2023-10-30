@@ -45,7 +45,8 @@ cc.Class({
        a_name:cc.Label,
 
        _status:0,
-       _roomid:""
+       _roomid:"",
+       _ruleid:"",
     },
 
     // LIFE-CYCLE CALLBACKS:
@@ -59,6 +60,7 @@ cc.Class({
             self.lblRoomID.string = "房号：" + data.roomid;
             self.seat(data.ren,data.table);
             self._roomid = data.roomid;
+            self._ruleid = data.ruleid;
             //self.game.string = info[0] + '-' + data.roomid;
             self.game.string = info[0];
             self.lblDesc.string = '';
@@ -303,6 +305,7 @@ cc.Class({
                 //加入房间
                 if(this.node.roomid != 0){
                     cc.vv.userMgr.join(this._roomid,cc.vv.userMgr.club_id,0);
+                    cc.vv.userMgr.rule_id = this._ruleid;
                 }
                 else{
                     // var club_room_create = {
