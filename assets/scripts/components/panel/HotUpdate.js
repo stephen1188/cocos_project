@@ -144,9 +144,9 @@ cc.Class({
 
         // // Hot update is only available in Native build
 
-                // //不走热更测试包 guobol
-                // cc.vv.login.loading();
-                // return;
+        //不走热更测试包 guobol
+        cc.vv.login.loading();
+        return;
         if (!cc.sys.isNative) {
             this.node.active = false;
             cc.vv.login.loading();
